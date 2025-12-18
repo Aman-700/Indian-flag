@@ -29,9 +29,3 @@ It includes the **tricolor stripes** and a **detailed Ashoka Chakra with 24 spok
 (No external libraries required)
 
 ---
-
-## ▶️ How to Run the Project
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/Indian-Flag-Turtle-Python.git
